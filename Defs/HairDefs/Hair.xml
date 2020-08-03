@@ -1,180 +1,156 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
-<HairDef>
+  <HairDef>
     <label>PKA01</label>
     <hairGender>Any</hairGender>
     <texPath>Hairs/PKA01</texPath>
     <defName>PKAa01</defName>
-		<hairTags>
-			<li>Urban</li>
-			<li>Rural</li>
-		</hairTags>
+    <hairTags>
+      <li>Urban</li>
+      <li>Rural</li>
+    </hairTags>
   </HairDef>
-
-<HairDef>
+  <HairDef>
     <label>PKA02</label>
     <hairGender>Any</hairGender>
     <texPath>Hairs/PKA02</texPath>
     <defName>PKA02</defName>
-		<hairTags>
-			<li>Urban</li>
-			<li>Rural</li>
-		</hairTags>
+    <hairTags>
+      <li>Urban</li>
+      <li>Rural</li>
+    </hairTags>
   </HairDef>
-
-<HairDef>
+  <HairDef>
     <label>PKA03</label>
     <hairGender>Any</hairGender>
     <texPath>Hairs/PKA03</texPath>
     <defName>PKA03</defName>
-		<hairTags>
-			<li>Urban</li>
-			<li>Rural</li>
-		</hairTags>
+    <hairTags>
+      <li>Urban</li>
+      <li>Rural</li>
+    </hairTags>
   </HairDef>
-
-<HairDef>
+  <HairDef>
     <label>PKA04</label>
     <hairGender>Any</hairGender>
     <texPath>Hairs/PKA04</texPath>
     <defName>PKA04</defName>
-		<hairTags>
-			<li>Urban</li>
-			<li>Rural</li>
-		</hairTags>
+    <hairTags>
+      <li>Urban</li>
+      <li>Rural</li>
+    </hairTags>
   </HairDef>
-
-<HairDef>
+  <HairDef>
     <label>PKA05</label>
     <hairGender>Any</hairGender>
     <texPath>Hairs/PKA05</texPath>
     <defName>PKA05</defName>
-		<hairTags>
-			<li>Urban</li>
-			<li>Rural</li>
-		</hairTags>
+    <hairTags>
+      <li>Urban</li>
+      <li>Rural</li>
+    </hairTags>
   </HairDef>
-
-
-
-
-<HairDef>
+  <HairDef>
     <label>PKF01</label>
     <hairGender>Female</hairGender>
     <texPath>Hairs/PKF01</texPath>
     <defName>PKF01</defName>
-		<hairTags>
-			<li>Urban</li>
-			<li>Rural</li>
-		</hairTags>
+    <hairTags>
+      <li>Urban</li>
+      <li>Rural</li>
+    </hairTags>
   </HairDef>
-
-<HairDef>
+  <HairDef>
     <label>PKF02</label>
     <hairGender>Female</hairGender>
     <texPath>Hairs/PKF02</texPath>
     <defName>PKF02</defName>
-		<hairTags>
-			<li>Urban</li>
-			<li>Rural</li>
-		</hairTags>
+    <hairTags>
+      <li>Urban</li>
+      <li>Rural</li>
+    </hairTags>
   </HairDef>
-
-<HairDef>
+  <HairDef>
     <label>PKF03</label>
     <hairGender>Female</hairGender>
     <texPath>Hairs/PKF03</texPath>
     <defName>PKF03</defName>
-		<hairTags>
-			<li>Urban</li>
-			<li>Rural</li>
-		</hairTags>
+    <hairTags>
+      <li>Urban</li>
+      <li>Rural</li>
+    </hairTags>
   </HairDef>
-
-<HairDef>
+  <HairDef>
     <label>PKF04</label>
     <hairGender>Female</hairGender>
     <texPath>Hairs/PKF04</texPath>
     <defName>PKF04</defName>
-		<hairTags>
-			<li>Urban</li>
-			<li>Rural</li>
-		</hairTags>
+    <hairTags>
+      <li>Urban</li>
+      <li>Rural</li>
+    </hairTags>
   </HairDef>
-
-<HairDef>
+  <HairDef>
     <label>PKF05</label>
     <hairGender>Female</hairGender>
     <texPath>Hairs/PKF05</texPath>
     <defName>PKF05</defName>
-		<hairTags>
-			<li>Urban</li>
-			<li>Rural</li>
-		</hairTags>
+    <hairTags>
+      <li>Urban</li>
+      <li>Rural</li>
+    </hairTags>
   </HairDef>
-
-<HairDef>
+  <HairDef>
     <label>PKF06</label>
     <hairGender>Female</hairGender>
     <texPath>Hairs/PKF06</texPath>
     <defName>PKF06</defName>
-		<hairTags>
-			<li>Urban</li>
-			<li>Rural</li>
-		</hairTags>
+    <hairTags>
+      <li>Urban</li>
+      <li>Rural</li>
+    </hairTags>
   </HairDef>
-
-
-
-
-
-<HairDef>
+  <HairDef>
     <label>PKM01</label>
     <hairGender>Male</hairGender>
     <texPath>Hairs/PKM01</texPath>
     <defName>PKM01</defName>
-		<hairTags>
-			<li>Urban</li>
-			<li>Rural</li>
-			<li>Pank</li>
-		</hairTags>
+    <hairTags>
+      <li>Urban</li>
+      <li>Rural</li>
+      <li>Pank</li>
+    </hairTags>
   </HairDef>
-
-<HairDef>
+  <HairDef>
     <label>PKM02</label>
     <hairGender>Male</hairGender>
     <texPath>Hairs/PKM02</texPath>
     <defName>PKM02</defName>
-		<hairTags>
-			<li>Urban</li>
-			<li>Rural</li>
-			<li>Pank</li>
-		</hairTags>
+    <hairTags>
+      <li>Urban</li>
+      <li>Rural</li>
+      <li>Pank</li>
+    </hairTags>
   </HairDef>
-
-<HairDef>
+  <HairDef>
     <label>PKM03</label>
     <hairGender>Male</hairGender>
     <texPath>Hairs/PKM03</texPath>
     <defName>PKM03</defName>
-		<hairTags>
-			<li>Urban</li>
-			<li>Rural</li>
-			<li>Pank</li>
-		</hairTags>
+    <hairTags>
+      <li>Urban</li>
+      <li>Rural</li>
+      <li>Pank</li>
+    </hairTags>
   </HairDef>
-
-<HairDef>
+  <HairDef>
     <label>PKM04</label>
     <hairGender>Male</hairGender>
     <texPath>Hairs/PKM04</texPath>
     <defName>PKM04</defName>
-		<hairTags>
-			<li>Urban</li>
-			<li>Rural</li>
-		</hairTags>
+    <hairTags>
+      <li>Urban</li>
+      <li>Rural</li>
+    </hairTags>
   </HairDef>
-
-
 </Defs>

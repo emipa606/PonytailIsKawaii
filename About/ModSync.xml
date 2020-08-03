@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>c461e16c-eab3-4025-8af3-42550219b1d2</ID>
   <ModName>Ponytail is Kawaii (Continued)</ModName>
-  <Version>1.0.0.0</Version>
+  <Version>1.0.1.0</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,6 +12,3 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
-
-
-

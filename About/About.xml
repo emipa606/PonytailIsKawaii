@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-
 <ModMetaData>
-	<name>Ponytail is Kawaii (Continued)</name>
-  	<packageId>Mlie.PonytailIsKawaii</packageId>
-	<author>Mlie</author>
-	<url>https://github.com/emipa606/PonytailIsKawaii</url>
-	<supportedVersions>
-		<li>1.0</li>
-		<li>1.1</li>
-	</supportedVersions>
-	<modDependencies />
-	<loadAfter />
-	<description>Update of PRNS_hegels mod for RimWorld 1.1
+  <name>Ponytail is Kawaii (Continued)</name>
+  <packageId>Mlie.PonytailIsKawaii</packageId>
+  <author>Mlie</author>
+  <url>https://github.com/emipa606/PonytailIsKawaii</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>Update of PRNS_hegels mod for RimWorld 1.1
 https://steamcommunity.com/sharedfiles/filedetails/?id=1541890712
 
 [img]https://raw.githubusercontent.com/emipa606/RimWorld-Wrapper/master/Notice.png[/img]
@@ -29,10 +29,10 @@ there are kinds of 15 hairstyle: 6 for female, 4 for male and 5 for anything.
 
 -----
 
-ポニーテール（かわいい）とポニーテールジャナイ髪型を追加します！
+??????(????)???????????????????!
 
-女性用は6つ、男性用は4つ、共用は5つの、計15種があります。
+????6??????4?????5????15???????
 
 
-For B19 ⇒⇒⇒⇒⇒⇒　https://steamcommunity.com/sharedfiles/filedetails/?id=1532255143</description>
+For B19 ?????? https://steamcommunity.com/sharedfiles/filedetails/?id=1532255143</description>
 </ModMetaData>
