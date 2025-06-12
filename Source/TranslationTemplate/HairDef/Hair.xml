@@ -1,18 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <PKAa01.label>PKA01</PKAa01.label>
+  <!-- EN: PKA02 -->
   <PKA02.label>PKA02</PKA02.label>
+  <!-- EN: PKA03 -->
   <PKA03.label>PKA03</PKA03.label>
+  <!-- EN: PKA04 -->
   <PKA04.label>PKA04</PKA04.label>
+  <!-- EN: PKA05 -->
   <PKA05.label>PKA05</PKA05.label>
+  <!-- EN: PKA01 -->
+  <PKAa01.label>PKA01</PKAa01.label>
+  <!-- EN: PKF01 -->
   <PKF01.label>PKF01</PKF01.label>
+  <!-- EN: PKF02 -->
   <PKF02.label>PKF02</PKF02.label>
+  <!-- EN: PKF03 -->
   <PKF03.label>PKF03</PKF03.label>
+  <!-- EN: PKF04 -->
   <PKF04.label>PKF04</PKF04.label>
+  <!-- EN: PKF05 -->
   <PKF05.label>PKF05</PKF05.label>
+  <!-- EN: PKF06 -->
   <PKF06.label>PKF06</PKF06.label>
+  <!-- EN: PKM01 -->
   <PKM01.label>PKM01</PKM01.label>
+  <!-- EN: PKM02 -->
   <PKM02.label>PKM02</PKM02.label>
+  <!-- EN: PKM03 -->
   <PKM03.label>PKM03</PKM03.label>
+  <!-- EN: PKM04 -->
   <PKM04.label>PKM04</PKM04.label>
 </LanguageData>

@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 211129659
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3b983491cea65d45c905dce74e190943
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3b983491cea65d45c905dce74e190943
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKF05_east.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKF01_east.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKA04_east.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKF03_south.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKF05_north.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKM01_north.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKA05_east.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKF03_north.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKF02_north.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKM02_south.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKM03_south.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKA05_north.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKA04_south.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKF02_east.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKA02_north.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKF04_south.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKM01_east.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKA04_north.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKF05_south.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKF03_east.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKF02_south.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKM02_north.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKM03_north.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKF04_east.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKF04_north.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKM02_east.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKA03_east.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKM04_south.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKA05_south.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKA03_south.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKF06_east.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKM03_east.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKF01_south.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKF01_north.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKM01_south.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKM04_east.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKA02_south.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKA03_north.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKA01_north.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKF06_north.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKA01_south.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKA02_east.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKA01_east.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKF06_south.png
+- Assets/Data/Mlie.PonytailIsKawaii/Textures/Hairs/PKM04_north.png
+Dependencies: []
