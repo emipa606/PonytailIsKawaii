@@ -37,4 +37,4 @@ For B19 ⇒⇒⇒⇒⇒⇒　https://steamcommunity.com/sharedfiles/filedetails/
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/PonytailIsKawaii?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2039006216) | tags: hairstyles, cute
+[![Image](https://img.shields.io/github/v/release/emipa606/PonytailIsKawaii?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2039006216) | hairstyles, cute
